@@ -30,7 +30,7 @@ Video Demo
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/NextHire.git
+git clone https://github.com/Mahdi196/NextHire.git
 
 Navigate to the project directory:
 
@@ -96,10 +96,16 @@ Currently, there are no automated tests for this project. However, you can manua
 
 For any questions, please contact me:
 
-GitHub: Mahdi070707
+GitHub: Mahdi196
 
 Email: mahdighaleb196@gmail.com
 
 ## Video Demo
 
 🎥 Watch a walkthrough of the application here.
+
+https://drive.google.com/file/d/1aJHpzq-YFJzJ4F2wC32aILG9q8U8LNMV/view?usp=sharing
+
+## Deployment 
+
+https://nexthire-196.onrender.com/
