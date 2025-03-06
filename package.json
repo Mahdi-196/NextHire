@@ -5,11 +5,10 @@
   "type": "module",
   "packageManager": "yarn@1.22.22",
   "scripts": {
-    "dev": "next dev -H 0.0.0.0 -p $PORT",
+    "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
-    "start": "yarn build && yarn preview"
+    "lint": "eslint ."
   },
   "dependencies": {
     "axios": "^1.8.1",
