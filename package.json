@@ -1,11 +1,11 @@
 {
-  "name": "NextHire",
+  "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "packageManager": "yarn@1.22.22",
   "scripts": {
-    "dev": "vite",
+    "dev": "next dev -H 0.0.0.0 -p $PORT",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
